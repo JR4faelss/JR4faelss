@@ -1,110 +1,100 @@
-# João Rafael da S. Sousa 🚀
+<h1 align="center">João Rafael da S. Sousa</h1>
 
 <p align="center">
-  <a href="#-português">Português</a> • 
-  <a href="#-english">English</a>
+  <b>AI Engineering · RAG e LLMs · Fairness em IA</b><br/>
+  Ciência de Dados e IA @ UFPB · João Pessoa, PB 🇧🇷
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/jr4faelss"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:jrafaelss35@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://huggingface.co/JRafaelss"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>
+</p>
+
+<p align="center">
+  <a href="#-português">Português</a> • <a href="#-english">English</a>
 </p>
 
 ---
 
-<h2 id="-português">🇧🇷 Português</h2>
+<h2 id="-português">🇧🇷 Sobre mim</h2>
 
-### Sobre Mim
-Sou graduando em **Ciência de Dados e Inteligência Artificial** pela Universidade Federal da Paraíba (UFPB). Atuo como **Tutor de Programação** no Projeto CODE (Inovatec), onde fomento o desenvolvimento de raciocínio lógico e ensino tecnologia para estudantes da rede municipal.
+Graduando em **Ciência de Dados e Inteligência Artificial** na UFPB. Construo sistemas com LLMs em produção: pipelines de RAG com busca semântica (pgvector), function calling, streaming e transcrição de áudio em tempo real.
 
-- 📍 Baseado em João Pessoa, Paraíba.
-- 🏫 Focado em Inteligência Artificial, Visão Computacional e Agentes Autônomos.
-- 🌐 Idiomas: Português (Nativo) e Inglês (Intermediário-Avançado).
+- 💼 **Backend Developer na DC Tech**: RAG corporativo, assistentes com LLMs e áudio em tempo real.
+- 🔬 **Pesquisador PIVITI/CNPq na UFPB**: biblioteca open-source em Python de Justiça Algorítmica (Fairness).
+- 🛠️ **Engenheiro de Software na Dinâmica Soluções Contábeis** (projeto autônomo): plataforma web e motor de conciliação fiscal.
+- 🌐 Português (nativo) · Inglês (intermediário-avançado).
 
-### 🛠️ Competências Técnicas
+<h2 id="-english">🇺🇸 About me</h2>
 
-#### Linguagens e Ferramentas
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+**Data Science and AI** undergraduate at UFPB (Brazil). I build production LLM systems: RAG pipelines with semantic search (pgvector), function calling, streaming and real-time audio transcription.
 
-#### IA, Dados e Frameworks
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
-![NLTK](https://img.shields.io/badge/NLTK-2EAD33?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
-
-#### Banco de Dados e DevOps
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
-### 🏆 Projetos em Destaque
-* **Análise de Desempenho UFC:** Uso de Web Scraping, K-Means e PCA para identificar arquétipos de lutadores entre mais de 2.300 atletas.
-* **Visão Computacional em Tempo Real:** Sistema de detecção de gestos e objetos com baixa latência utilizando PyTorch, YOLO e MediaPipe.
-* **Agente LembreMe:** Automação de tarefas e alertas financeiros 24/7 com LangChain e deploy em AWS EC2.
+- 💼 **Backend Developer at DC Tech**: corporate RAG, LLM assistants and real-time audio.
+- 🔬 **PIVITI/CNPq Researcher at UFPB**: open-source Python library for Algorithmic Fairness.
+- 🛠️ **Software Engineer at Dinâmica Soluções Contábeis** (freelance): web platform and tax reconciliation engine.
+- 🌐 Portuguese (native) · English (upper-intermediate).
 
 ---
 
-<h2 id="-english">🇺🇸 English</h2>
+## 💼 Projetos profissionais / Professional projects
 
-### About Me
-I am a **Data Science and Artificial Intelligence** undergraduate at the Paraíba Federal University (UFPB). I work as a **Programming Tutor** at Inovatec - Project CODE, fostering technical literacy for over 100 public school students.
+> Código privado. / *Private code.*
 
-- 📍 Based in João Pessoa, Paraíba, Brazil.
-- 🏫 Researching AI Agents, Computer Vision, and Machine Learning.
-- 🌐 Languages: Portuguese (Native) and English (Upper-Intermediate).
+| Projeto | O que é / What it is | Stack |
+|---|---|---|
+| **DCIA – RAG corporativo** · DC Tech | Pipeline de RAG e assistentes com LLMs sobre a base de conhecimento de cada cliente, com busca semântica, function calling e streaming.<br/>*Corporate RAG pipeline and LLM assistants with semantic search, function calling and SSE streaming.* | PostgreSQL · pgvector · SSE · TypeScript |
+| **HipócratesAi** · DC Tech | Motor de áudio bidirecional para simulações clínicas: transcrição em tempo real e avaliação determinística com GPT-4o.<br/>*Bidirectional audio engine for clinical simulations with real-time ASR and GPT-4o grading.* | Fastify · WebSockets · Deepgram · GPT-4o |
+| **Plataforma de agência** · DC Tech | Barramento de eventos para notificações in-app e e-mail, e portais de briefing com links públicos seguros e áudio transcrito.<br/>*Unified event bus and secure public briefing portals with Whisper transcription.* | TypeScript · Zod · Supabase · Whisper · Docker |
+| **Agente de atendimento no WhatsApp** · DC Tech | Agente de IA para um e-commerce: recomenda produtos, consulta pedidos, gera orçamentos e transfere para um humano com resumo.<br/>*AI customer service agent with quotes and human handoff.* | Node.js · TypeScript · OpenAI · whatsapp-web.js |
+| **Plataforma Dinâmica** · Dinâmica SC | Plataforma do escritório contábil com setores isolados por RLS, motor de conciliação da DCTFWeb e pipeline de enriquecimento de dados B2B.<br/>*Accounting firm platform with RLS multi-tenancy, DCTFWeb reconciliation engine and B2B data enrichment.* | Next.js · Supabase · PL/pgSQL · Python |
+| **Biblioteca de Fairness** · PIVITI/CNPq | Biblioteca Python de desenviesamento adversarial (jogos minimax) para impor restrições de equidade no treino de modelos, com empacotamento para PyPI.<br/>*Adversarial debiasing library for fair model training, packaged for PyPI.* | Python · TensorFlow · scikit-learn |
 
-### 🛠️ Technical Skills
+## 🧪 Projetos pessoais / Personal projects
 
-#### Languages and Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-#### AI, Data & Frameworks
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
-![NLTK](https://img.shields.io/badge/NLTK-2EAD33?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
-
-#### Databases, Cloud & Versioning
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+| Projeto | O que é / What it is | Stack |
+|---|---|---|
+| [**Oclus Health**](https://github.com/JR4faelss/oclus-health) | Assistente multiagente para clínicas via WhatsApp: agendamento, triagem, prontuário SOAP, áudio (Whisper) e exames (visão), com RAG.<br/>*Multi-agent clinic assistant over WhatsApp with RAG, audio and image input.* | LangGraph · LangChain · OpenAI · ChromaDB · Flask |
+| [**Visão Computacional em Tempo Real**](https://github.com/JR4faelss/visao-computacional-nlw22) | Detecção de gestos faciais e corporais com baixa latência via WebSockets, segmentação e detecção de objetos com modelos SOTA.<br/>*Low-latency gesture detection and SOTA object segmentation/detection.* | PyTorch · OpenCV · MediaPipe · YOLO · CLIPSeg · FastHTML |
+| [**Análise UFC**](https://github.com/JR4faelss/projeto_final_icd) | Web scraping de 2.300+ lutadores, K-Means e PCA para identificar arquétipos e probabilidades de vitória.<br/>*Fighter archetypes from 2,300+ athletes via clustering.* | Pandas · scikit-learn · Power BI · Seaborn |
 
 ---
 
-### 📊 Estatísticas / Stats
+## 🛠️ Stack
+
+**IA e LLMs / AI & LLMs**<br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+**Backend e Web / Backend & Web**<br/>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+**Dados e Infra / Data & Infra**<br/>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JR4faelss&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JR4faelss&layout=compact&theme=radical" alt="Most used languages" />
+  📫 <a href="mailto:jrafaelss35@gmail.com">jrafaelss35@gmail.com</a> · <a href="https://linkedin.com/in/jr4faelss">linkedin.com/in/jr4faelss</a>
 </p>
-
-### 📫 Contato / Contact
-- **Email:** [jrafaelss35@gmail.com](mailto:jrafaelss35@gmail.com)
-- **LinkedIn:** [linkedin.com/in/jr4faelss](https://linkedin.com/in/jr4faelss)
-- **GitHub:** [github.com/JR4faelss](https://github.com/JR4faelss)
